@@ -76,6 +76,8 @@ analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-204916456-1"
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
 
 
 # Site Author
