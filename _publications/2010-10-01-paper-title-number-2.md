@@ -8,9 +8,9 @@ venue: 'IEEE International Symposium on Performance Analysis of Systems and Soft
 paperurl: 
 authors_before_me: "Zhongyuan Zhao, Hyoukjun Kwon, "
 author_me: "Sachit Kuhar,"
-authors_after_me: "Weiguang Sheng, Zhigang Mao, Tushar Krishna" -->
+authors_after_me: "Weiguang Sheng, Zhigang Mao, Tushar Krishna" 
 
----
+---   -->
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 <!-- 
 [Paper](https://ieeexplore.ieee.org/abstract/document/8695674)
