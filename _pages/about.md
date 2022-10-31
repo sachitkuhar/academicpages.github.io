@@ -16,4 +16,4 @@ I am a Computer Science graduate student at [Georgia Institute of Technology](ht
  -->
  I am currently working with [Prof. Danfei Xu](https://faculty.cc.gatech.edu/~danfei/). During my undergrad, I worked with [Prof. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) at Georgia Tech, [Prof. Christopher Fletcher](http://cwfletcher.net/) at UIUC and [Prof. Ribhu](https://ribhuiitg.wordpress.com/) at IIT-Guwahati. 
  
- I’ve been fortunate to have collaborated with [Prof. Dhruv Batra](https://faculty.cc.gatech.edu/~dbatra/) and [Prof. Judy Hoffman](https://faculty.cc.gatech.edu/~judy/) at Georgia Tech, [Dr. Christopher Hughes](https://scholar.google.com/citations?user=DH-T2h46j_oC&hl=en) at Intel AI Labs and with people at FAIR Labs and AWS AI Labs.
+ I’ve been fortunate to have collaborated with [Dr. Christopher Hughes](https://scholar.google.com/citations?user=DH-T2h46j_oC&hl=en) at Intel AI Labs, [Prof. Dhruv Batra](https://faculty.cc.gatech.edu/~dbatra/) and [Prof. Judy Hoffman](https://faculty.cc.gatech.edu/~judy/) at Georgia Tech, and with people at FAIR and AWS AI Labs.
