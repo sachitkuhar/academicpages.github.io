@@ -1,9 +1,7 @@
-<!--- ---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----  --->
 <!--- Co-lead authorship is denoted by <b>*</b>
 
 {% if author.googlescholar %}
