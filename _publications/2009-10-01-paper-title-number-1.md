@@ -1,4 +1,4 @@
-<!--- ---
+
 title: "Deep Learning Based Semi-Blind Tracking for Aging Wireless Communication Channels"
 authors_before_me: "Achal Dave*, "
 author_me: "Sachit Kuhar*,"
@@ -7,7 +7,7 @@ collection: publications
 permalink: /publication/2021-wpc-aging
 date: 2021-4-22
 excerpt: 
-venue: 'Wireless Personal Communications, Springer Netherlands' -->
+venue: 'Wireless Personal Communications, Springer Netherlands' 
 
 <!--- --- -->
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
