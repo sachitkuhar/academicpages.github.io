@@ -1,4 +1,4 @@
-<!--  ---
+
 title: "mRNA: Enabling Efficient Mapping Space Exploration for a Reconfiguration Neural Accelerator"
 collection: publications
 permalink: /publication/2019-ispass-mrna
@@ -10,7 +10,7 @@ authors_before_me: "Zhongyuan Zhao, Hyoukjun Kwon, "
 author_me: "Sachit Kuhar,"
 authors_after_me: "Weiguang Sheng, Zhigang Mao, Tushar Krishna" 
 
----   -->
+
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 <!-- 
 [Paper](https://ieeexplore.ieee.org/abstract/document/8695674)
