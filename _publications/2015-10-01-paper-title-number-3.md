@@ -1,4 +1,4 @@
-<!--  ---
+
 title: "SumMerge: an efficient algorithm and implementation for weight repetition-aware DNN inference"
 authors_before_me: "Rohan Baskar Prabhakar*,"
 author_me: "Sachit Kuhar*,"
@@ -9,7 +9,7 @@ date: 2021-6-3
 excerpt: 
 venue: 'ACM International Conference on Supercomputing'
 
---- -->
+
 <!-- This paper is about the number 3. The number 4 is left for future work. -->
 <!--
 [Paper](https://dl.acm.org/doi/abs/10.1145/3447818.3460375)
