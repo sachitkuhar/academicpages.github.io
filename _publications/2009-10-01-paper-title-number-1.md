@@ -12,6 +12,6 @@ venue: 'Wireless Personal Communications, Springer Netherlands'
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
 
-[Paper](https://link.springer.com/article/10.1007/s11277-021-08354-x)
+[Paper](https://dl.acm.org/doi/abs/10.1007/s11277-021-08354-x)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
