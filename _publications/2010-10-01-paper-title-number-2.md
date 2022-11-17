@@ -5,7 +5,7 @@ author_me: "Sachit Kuhar, "
 authors_after_me: " Weiguang Sheng, Zhigang Mao, Tushar Krishna"
 collection: publications
 permalink: /publication/2019-ispass-mrna
-date: 2019-03-24
+date: 2019-08-24
 excerpt: 
 venue: 'IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)'
 
