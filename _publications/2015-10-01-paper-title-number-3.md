@@ -9,10 +9,10 @@ date: 2021-6-3
 excerpt: 
 venue: 'ACM International Conference on Supercomputing'
 ---
-[Paper](https://dl.acm.org/doi/abs/10.1145/3447818.3460375)
 
 <!-- This paper is about the number 3. The number 4 is left for future work. -->
 <!--
+[Paper](https://dl.acm.org/doi/abs/10.1145/3447818.3460375)
 
 Deep Neural Network (DNN) inference efficiency is a key concern across the myriad of domains now relying on Deep Learning. A recent promising direction to speed-up inference is to exploit weight repetition. The key observation is that due to DNN quantization schemes—which attempt to reduce DNN storage requirements by reducing the number of bits needed to represent each weight—the same weight is bound to repeat many times within and across filters. This enables a weight-repetition aware inference kernel to factorize and memoize out common sub-computations, reducing arithmetic per inference while still maintaining the compression benefits of quantization. Yet, significant challenges remain. For instance, weight repetition introduces significant irregularity in the inference operation and hence (up to this point) has required custom hardware accelerators to derive net benefit.
 
