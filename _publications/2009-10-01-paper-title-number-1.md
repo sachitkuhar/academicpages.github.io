@@ -5,7 +5,7 @@ author_me: "Sachit Kuhar*,"
 authors_after_me: " Ribhu Chopra"
 collection: publications
 permalink: /publication/2021-wpc-aging
-date: 20019-4-22
+date: 2019-4-22
 excerpt: 
 venue: 'Wireless Personal Communications, Springer Netherlands'
 
