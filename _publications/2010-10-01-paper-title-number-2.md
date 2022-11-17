@@ -7,7 +7,7 @@ collection: publications
 permalink: /publication/2019-ispass-mrna
 date: 2019-03-24
 excerpt: 
-venue: 'Wireless Personal Communications, Springer Netherlands'
+venue: 'IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)'
 
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
