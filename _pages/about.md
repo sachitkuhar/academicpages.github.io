@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a Computer Science graduate student at [Georgia Institute of Technology](https://www.cc.gatech.edu/) and did my undergraduate from [Indian Institute of Technology (IIT) Guwahati](https://www.iitg.ac.in/).
+Hello there! I am a second-year Master’s student at [Georgia Institute of Technology's](https://www.cc.gatech.edu/) School of Computer Science and did my undergraduate from [Indian Institute of Technology (IIT) Guwahati](https://www.iitg.ac.in/).
 
 <!--- I’ve been fortunate to have been advised by brilliant mentors past and present, among them [Prof. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) at Georgia Tech, [Prof. Christopher Fletcher](http://cwfletcher.net/) at UIUC and [Prof. Ribhu](https://ribhuiitg.wordpress.com/) at IIT-Guwahati. I’m grateful to them for their advice and support through the years. --->
 
