@@ -13,6 +13,7 @@ Hello there! I am a second-year Master’s student at [Georgia Institute of Tech
 
 <!-- Previously, I spent four amazing years at the [Indian Institute of Technology (IIT) Guwahati](https://www.iitg.ac.in/) where I obtained my bachelor's degree in ECE. 
  -->
- I am currently working with [Prof. Danfei Xu](https://faculty.cc.gatech.edu/~danfei/). During my undergrad, I was advised by [Prof. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) at Georgia Tech, [Prof. Christopher Fletcher](http://cwfletcher.net/) at UIUC and [Prof. Ribhu](https://ribhuiitg.wordpress.com/) at IIT-Guwahati. 
+<!--  I am currently working with [Prof. Danfei Xu](https://faculty.cc.gatech.edu/~danfei/). During my undergrad, I was advised by [Prof. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) at Georgia Tech, [Prof. Christopher Fletcher](http://cwfletcher.net/) at UIUC and [Prof. Ribhu](https://ribhuiitg.wordpress.com/) at IIT-Guwahati. 
  
  I’ve been fortunate to have collaborated with [Dr. Christopher Hughes](https://scholar.google.com/citations?user=DH-T2h46j_oC&hl=en) at Intel AI Labs, [Prof. Dhruv Batra](https://faculty.cc.gatech.edu/~dbatra/), [Prof. Judy Hoffman](https://faculty.cc.gatech.edu/~judy/) and [Prof. Alexey Tumanov](https://faculty.cc.gatech.edu/~atumanov/) at Georgia Tech, [Prof. Baishakhi Ray](https://www.rayb.info) at Columbia and with researchers at Facebook AI Research and AWS AI Labs.
+ -->
