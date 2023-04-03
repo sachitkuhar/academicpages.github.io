@@ -7,7 +7,7 @@ collection: publications
 permalink: /publication/2021-ovrl
 date: 2022-4-22
 excerpt: 
-venue: 'Under Review'
+venue: International Conference on Learning Representations 2023, Reincarnating Reinforcement Learning
 
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
