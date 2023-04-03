@@ -5,7 +5,7 @@ author_me: "Sachit Kuhar, "
 authors_after_me: "Dhruv Batra, Aleksei Baevski, Oleksandr Makysmet"
 collection: publications
 permalink: /publication/2021-ovrl
-date: 2022-4-22
+date: 2023-3-22
 excerpt: 
 venue: International Conference on Learning Representations 2023, Reincarnating Reinforcement Learning
 
