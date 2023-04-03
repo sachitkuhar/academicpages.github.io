@@ -6,7 +6,7 @@ collection: publications
 permalink: /publication/2022-sbn
 date: 2022-8-22
 excerpt: 
-venue: 'Under Review'
+venue: Machine Learning and Systems 2023, On-Device Intelligence
 
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
