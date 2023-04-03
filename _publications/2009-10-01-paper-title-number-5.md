@@ -4,9 +4,9 @@ author_me: "Sachit Kuhar,"
 authors_after_me: "et. al."
 collection: publications
 permalink: /publication/2022-sbn
-date: 2022-8-22
+date: 2023-4-01
 excerpt: 
-venue: Machine Learning and Systems 2023, On-Device Intelligence
+venue: Machine Learning and Systems, On-Device Intelligence
 
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
