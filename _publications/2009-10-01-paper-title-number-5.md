@@ -6,7 +6,7 @@ collection: publications
 permalink: /publication/2022-sbn
 date: 2023-4-01
 excerpt: 
-venue: Machine Learning and Systems, On-Device Intelligence
+venue: Machine Learning and Systems (MLSys) , On-Device Intelligence
 
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
