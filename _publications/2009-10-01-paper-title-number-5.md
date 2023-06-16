@@ -1,12 +1,12 @@
 ---
-title: "Signed-Binary Networks: Imroving Efficiency of Binary Networks by Exploiting Sparsity"
+title: "Signed-Binary Weight Networks"
 author_me: "Sachit Kuhar,"
 authors_after_me: "Alexey Tumanov, Judy Hoffman"
 collection: publications
 permalink: /publication/2022-sbn
 date: 2023-4-01
 excerpt: 
-venue: Machine Learning and Systems (MLSys) , On-Device Intelligence
+venue: Machine Learning and Systems (MLSys) , On-Device Intelligence (ORAL Presentation)
 
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
