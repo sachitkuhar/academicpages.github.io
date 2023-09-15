@@ -6,7 +6,7 @@ collection: publications
 permalink: /publication/2023-corl-l2d
 date: 2023-9-8
 excerpt: 
-venue: 'Conference on Robot Learning (CoRL), 2023'
+venue: 'Conference on Robot Learning (CoRL)'
 
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
