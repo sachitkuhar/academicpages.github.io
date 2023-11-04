@@ -7,7 +7,7 @@ collection: publications
 permalink: /publication/2019-ispass-mrna
 date: 2019-08-24
 excerpt: 
-venue: 'IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)'
+venue: 'Oral Presentation at IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)'
 
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
