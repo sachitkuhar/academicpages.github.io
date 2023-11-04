@@ -7,7 +7,7 @@ collection: publications
 permalink: /publication/2021-ics-summerge
 date: 2021-6-3
 excerpt: 
-venue: 'ACM International Conference on Supercomputing'
+venue: 'Oral Presentation at ACM International Conference on Supercomputing'
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
 
