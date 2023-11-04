@@ -11,6 +11,6 @@ venue: 'Conference on Robot Learning (CoRL)'
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
 
-<!-- [Paper](https://dl.acm.org/doi/abs/10.1007/s11277-021-08354-x) -->
+[Paper](https://openreview.net/pdf?id=kOm3jWX8YN)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
